@@ -1,0 +1,23 @@
+{
+  "name": "angular-decoraters-demo",
+  "description": "An angular application to demonstrate the usage of decorators",
+  "main": "index.js",
+  "authors": [
+    "Surajit.Rana"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular-decorator"
+  ],
+  "homepage": "https://github.com/surajitrana1985/angular-decoraters-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.6.4"
+  }
+}

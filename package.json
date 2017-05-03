@@ -1,0 +1,26 @@
+{
+  "name": "angular-decoraters-demo",
+  "version": "1.0.0",
+  "description": "An angular application to demonstrate the usage of decorators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajitrana1985/angular-decoraters-demo.git"
+  },
+  "keywords": [
+    "angular-decorator"
+  ],
+  "author": "Surajit.Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surajitrana1985/angular-decoraters-demo/issues"
+  },
+  "homepage": "https://github.com/surajitrana1985/angular-decoraters-demo#readme",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "http-server": "^0.10.0"
+  }
+}
